@@ -1,3 +1,7 @@
 This Folder contains the python script for the robot magic show from my TEEP intership.
 It required other nodes and modules to be executed on the robotis OP3.
-It is meant as reference for the other NTNU master students
+This repository acts as reference for the other NTNU master students further improving on the project in the future.
+
+Please note that there are bugs in the hand tracking implementation inside the robot code. I recommend referring to the method cath_input() inside the finger
+tracking module for the correct implementation using the cv_camera node on the OP3.
+Thank you!
