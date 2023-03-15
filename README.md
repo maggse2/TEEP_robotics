@@ -2,7 +2,7 @@
 This Repository is for all the python scripts I developed during my September 2022 Internship at National Taiwan Normal University.
 
 The task was to make a ROBOTIS OP3 robot perform a magic show in front of an audience without giving away the inner workings of his tricks.
-I transformed pre-existing code in a way to make the robot accept a bag and weigh its contents in order to determine the color of boxes inside said bag.
+I modified and extended pre-existing code in a way to make the robot accept a bag and weigh its contents in order to determine the color of boxes inside said bag.
 
 Boxes of the same color will contain equal weights to make them distinguishable for the robot. The Boxes are provided in such quantities that the robot can use a truth table to unequivocally deduct the color of the boxes, given the information of how many boxes are inside the bag.
 
